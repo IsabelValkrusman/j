@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formsElements", "formsElements.csproj", "{34E3D3E9-7B24-4473-B618-3D9006246A14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57218A0B-3ED2-407F-800C-930EC9432DF6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\nature.jpg = ..\..\..\Desktop\nature.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{E777716D-8BA1-4AF5-9B82-C29005BAA6FA}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\nature.jpg = ..\..\..\Desktop\nature.jpg
+		..\..\..\Desktop\river.jpg = ..\..\..\Desktop\river.jpg
+		..\..\..\Desktop\tree.jpg = ..\..\..\Desktop\tree.jpg
+		..\..\..\Desktop\wild.jpg = ..\..\..\Desktop\wild.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E3D3E9-7B24-4473-B618-3D9006246A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E3D3E9-7B24-4473-B618-3D9006246A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E3D3E9-7B24-4473-B618-3D9006246A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E3D3E9-7B24-4473-B618-3D9006246A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8495AF86-38D9-4ED0-9D4D-1F5D54BDF7B5}
+	EndGlobalSection
+EndGlobal
